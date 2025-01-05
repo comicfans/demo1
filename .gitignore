@@ -1,0 +1,9 @@
+.cache
+.kdev4
+.qtc_clangd
+.vscode
+Content
+DerivedDataCache
+Intermediate
+Saved
+build
